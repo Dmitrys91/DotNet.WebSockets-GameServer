@@ -1,4 +1,4 @@
-.NET Core 6. Game server on WebSocket API, Clearn Architecture 
+.NET Core 6. Game server on WebSocket API, Clean Architecture 
 
 
 Set Multiple startup projects: GameServer.Api & GameServer.Client
